@@ -1,5 +1,3 @@
-pending: 3
-
 ### 1. Two Sum (two pointer):
 
 ```java
@@ -96,7 +94,7 @@ class Solution {
 }
 ```
 
-### 3536. Maximum Product of Two Digits: pending
+### 3536. Maximum Product of Two Digits:
 
 ```java
 class Solution {
