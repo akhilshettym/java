@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.dsa.b_searches;
+package akhilshettyym.java.dsa.b_searches;
 
 import java.util.Scanner;
 

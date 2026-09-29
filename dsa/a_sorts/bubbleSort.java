@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.dsa.a_sorts;
+package akhilshettyym.java.dsa.a_sorts;
 
 import java.util.Scanner;
 
