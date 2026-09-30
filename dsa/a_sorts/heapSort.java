@@ -2,6 +2,14 @@ package akhilshettyym.java.dsa.a_sorts;
 
 import java.util.Scanner;
 
+// Time complexity - 
+// Transforming unsorted array of size n into a min/max heap takes O(n) time. 
+// Best Case - O(nlogn);
+// Average Case - O(nlogn);
+// Worst Case - O(nlogn);
+
+// Space Complexity - O(1); in-place.
+
 public class heapSort {
 
     public static void sorter(int[] arr) {
