@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 // Time complexity - 
 // Best Case - O(1);
-// Average Case - O(log N);
-// Worst Case - O(log N);
+// Average Case - O(logn);
+// Worst Case - O(logn);
 
-// Space Complexity - Iterative O(1); Recursive O(log N);
+// Space Complexity - Iterative O(1); Recursive O(logn);
 
 public class binarySearch {
 
