@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.D_DataStructures;
+package java.core.D_DataStructures;
 
 public class H_Wrapper {
   public static void main(String[] args) {

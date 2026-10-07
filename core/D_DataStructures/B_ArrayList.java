@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.D_DataStructures;
+package java.core.D_DataStructures;
 
 // The ArrayList class is a resizable array, which can be found in the java.util package.
 // Unlike arrays, ArrayLists can grow and shrink in size dynamically.

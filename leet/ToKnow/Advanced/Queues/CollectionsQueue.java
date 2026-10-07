@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.leet.ToKnow.Advanced.Queues;
+package java.leet.ToKnow.Advanced.Queues;
 
 import java.util.*;
 

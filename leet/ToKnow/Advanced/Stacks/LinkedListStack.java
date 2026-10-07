@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.leet.ToKnow.Advanced.Stacks;
+package java.leet.ToKnow.Advanced.Stacks;
 
 public class LinkedListStack {
     static class Node {

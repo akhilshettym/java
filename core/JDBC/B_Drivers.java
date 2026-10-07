@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.JDBC;
+package java.core.JDBC;
 
 public class B_Drivers {
 }

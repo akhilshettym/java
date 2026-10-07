@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.E_FileHandling;
+package java.core.E_FileHandling;
 
 import java.io.File; // Import the File class
 import java.io.FileWriter; // Import the FileWriter class for writing to files

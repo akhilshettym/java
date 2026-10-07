@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.F_Advanced;
+package java.core.F_Advanced;
 /* 
  * To sort objects, we need to define a rule that determines the sorting order.
  * The Comparator and Comparable interfaces allow us to define custom sorting logic.

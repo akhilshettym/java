@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.F_Advanced;
+package java.core.F_Advanced;
 public class H_Exceptions {
     // Method that uses throw to generate a custom exception based on age
     static void checkAge(int age) {

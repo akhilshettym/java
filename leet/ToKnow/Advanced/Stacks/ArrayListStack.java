@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.leet.ToKnow.Advanced.Stacks;
+package java.leet.ToKnow.Advanced.Stacks;
 
 import java.util.ArrayList;
 

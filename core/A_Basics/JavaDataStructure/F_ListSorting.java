@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.A_Basics.JavaDataStructure;
+package java.core.A_Basics.JavaDataStructure;
 
 import java.util.ArrayList;
 import java.util.Collections;

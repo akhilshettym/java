@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.D_DataStructures;
+package java.core.D_DataStructures;
 
 import java.util.HashSet;
 import java.util.Iterator;

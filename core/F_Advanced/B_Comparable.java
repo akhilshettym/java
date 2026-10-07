@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.F_Advanced;
+package java.core.F_Advanced;
 /*
  * The Comparable interface allows an object to define its own sorting rule using the compareTo() method.
  *

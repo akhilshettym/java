@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.E_FileHandling;
+package java.core.E_FileHandling;
 
 import java.io.File;
 

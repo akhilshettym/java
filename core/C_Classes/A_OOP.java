@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.C_Classes;
+package java.core.C_Classes;
 
 // Java OOP Example: Understanding Classes and Objects
 
