@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.JDBC;
+package java.core.JDBC;
 
 // import java.security.Key;
 // import java.sql.CallableStatement;

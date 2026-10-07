@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.B_Methods;
+package java.core.B_Methods;
 
 public class A_Methods {
 

@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.leet.ToKnow.Advanced.LinkedList;
+package java.leet.ToKnow.Advanced.LinkedList;
 
 public class B_delete {
     Node head;

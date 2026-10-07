@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.F_Advanced;
+package java.core.F_Advanced;
 // Generic class that can hold any type T
 class Box<T> {
     T value; // T is a placeholder for any data type

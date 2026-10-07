@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.A_Basics.JavaDataStructure;
+package java.core.A_Basics.JavaDataStructure;
 
 /*Write a program to add an unique element in a new list by comparing two given lists.
 Ex: Input: List1 = [car, bike, bus, train, truck]    List2 = [car, bike ,train, truck]

@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.F_Advanced;
+package java.core.F_Advanced;
 /*The throw keyword
 The throw statement allows you to create a custom error.
 The throw statement is used together with an exception type. There are many exception types available in Java:

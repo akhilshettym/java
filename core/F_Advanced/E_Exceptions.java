@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.F_Advanced;
+package java.core.F_Advanced;
 /**
  * Java Exceptions
  * When executing Java code, different errors can occur:

@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.leet.ToKnow.Advanced.Trees;
+package java.leet.ToKnow.Advanced.Trees;
 
 public class A_PreOrder {
     static class Node {

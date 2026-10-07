@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.leet.ToKnow.Advanced.Patterns;
+package java.leet.ToKnow.Advanced.Patterns;
 
 import java.util.Scanner;
 

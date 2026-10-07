@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.C_Classes;
+package java.core.C_Classes;
 
 // Single Interface Example
 interface Animal {

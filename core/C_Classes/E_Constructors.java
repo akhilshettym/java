@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.C_Classes;
+package java.core.C_Classes;
 
 // Java Constructors Demonstration
 

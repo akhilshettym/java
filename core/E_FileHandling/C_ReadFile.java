@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.E_FileHandling;
+package java.core.E_FileHandling;
 
 import java.io.File;                // Import File class for file operations
 import java.io.FileNotFoundException; // Import for handling file not found errors

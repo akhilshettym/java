@@ -1,4 +1,4 @@
-package akhilshettyym.JAVA.core.C_Classes;
+package java.core.C_Classes;
 
 // Java Classes and Objects Example
 // This file demonstrates how classes and objects work in Java

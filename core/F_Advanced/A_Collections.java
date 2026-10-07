@@ -1,4 +1,5 @@
-package akhilshettyym.JAVA.core.F_Advanced;
+package java.core.F_Advanced;
+
 import java.util.*;
 
 public class A_Collections {
