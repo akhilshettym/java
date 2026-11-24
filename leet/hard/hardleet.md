@@ -1,5 +1,3 @@
-# 2,743,172
-
 ### 42. Trapping Rain Water:
 
 ```java
