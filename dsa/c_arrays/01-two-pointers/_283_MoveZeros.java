@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class _285_MoveZeros {
+public class _283_MoveZeros {
 
     public static int[] MoveZeros(int[] nums) {
 
